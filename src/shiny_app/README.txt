@@ -1,0 +1,1 @@
+This folder contains codes for the Shiny app, including UI modules, server codes, and helper codes.

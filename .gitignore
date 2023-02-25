@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+archive
+!nogit
+README.html
+packages_install.sh
+pitracer_image.tar.gz
+!nogit
